@@ -36,9 +36,6 @@ En sortie le ciphertext mais sans la clé(key). :bookmark_tabs:
 La foncton VerifCaracSpec prend en entrée un tableau de char de taille de 100
 et en sortie un un booléen de variable isCorret, elle renvoie si un caractere est alpha-numérique ou non grace a la foncion isalnum.
 
-**Lien du git**    
-Vous y trouverez les programme [URL](https://gitlab.info.iut-tlse3.fr/mdm4166a/projet-c-chiffrement-et-dechiffrement-de-messages.git)
-
 
 *Source*
 Nous nous sommes beaucoup informé grâce au site de *KooR* qui constitue une ressource pédagogique pour programmeur.  
@@ -56,4 +53,5 @@ Nous nous sommes beaucoup informé grâce au site de *KooR* qui constitue une re
 
 ![Logo de l'iut](https://cdn.discordapp.com/attachments/959786569408069722/967077493305651210/Logo_IUT_Toulouse_A.jpg)
 
+"# Chiffrement-et-dechiffrement-de-messages" 
 "# Chiffrement-et-dechiffrement-de-messages" 
